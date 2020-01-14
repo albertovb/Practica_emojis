@@ -1,0 +1,24 @@
+@charset "utf-8";
+body {
+    background-color: hsl(35, 100%, 90%);
+    font-family: sans-serif;
+}
+h1 {
+    color: hsl(35, 79%, 38%);
+    text-transform: uppercase;
+}
+p{
+    font-size: 2rem;
+} 
+p.titulo {
+    color: hsl(35, 95%, 47%);
+}
+summary {
+    font-size: 4rem;
+}
+span.blanco {
+    background-color: white;
+}
+.morado {
+    background-color: hsl(325, 100%, 92%);
+}
